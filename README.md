@@ -1,7 +1,7 @@
 # CV-project1
 
 ## 训练：参数查找
-运行train.py文件以进行参数查找
+运行para_search.py文件以复现report中的参数查找
 
 参数空间为：
 
@@ -20,14 +20,14 @@
 
 python train_one_model.py --model_name \[保存的模型名称\] --max_iter \[迭代次数\] --learning_rate \[初始学习率\] --penalty \[正则化系数\] --neural_num \[中间层神经元个数\] --visualize \[训练完成后是否可视化，y是 n否\]
 
-训练好的模型会被保存在.\\model文件夹中，请注意我们的程序会自动在名称最后添加_net
+训练好的模型会被保存在.\\model文件夹中，请注意我们的程序会自动在名称最后添加_nn
 
 ## 测试
 若要测试已经训练好的模型，清以以下格式运行test.py文件
 
 python test.py --model_name \[要测试的模型名称\]
 
-请注意要不要在模型名称末尾加上_net.pkl
+请注意要不要在模型名称末尾加上_nn以及后缀名.pkl
 
 测试的结果会输出在终端中
 
