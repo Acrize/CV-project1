@@ -1,0 +1,85 @@
+
+Parameters: (0.005, 0.01, 50)
+
+One model finish. The error of validation is 0.046700
+
+Parameters update.
+
+Parameters: (0.005, 0.01, 100)
+
+One model finish. The error of validation is 0.040500
+
+Parameters update.
+
+Parameters: (0.005, 0.01, 300)
+
+One model finish. The error of validation is 0.034900
+
+Parameters update.
+
+Parameters: (0.005, 0.001, 50)
+
+One model finish. The error of validation is 0.036100
+
+Parameters: (0.005, 0.001, 100)
+
+One model finish. The error of validation is 0.026300
+
+Parameters update.
+
+Parameters: (0.005, 0.001, 300)
+
+One model finish. The error of validation is 0.020100
+
+Parameters update.
+
+Parameters: (0.002, 0.01, 50)
+
+One model finish. The error of validation is 0.048300
+
+Parameters: (0.002, 0.01, 100)
+
+One model finish. The error of validation is 0.041000
+
+Parameters: (0.002, 0.01, 300)
+
+One model finish. The error of validation is 0.037200
+
+Parameters: (0.002, 0.001, 50)
+
+One model finish. The error of validation is 0.039700
+
+Parameters: (0.002, 0.001, 100)
+
+One model finish. The error of validation is 0.030700
+
+Parameters: (0.002, 0.001, 300)
+
+One model finish. The error of validation is 0.024600
+
+Parameters: (0.001, 0.01, 50)
+
+One model finish. The error of validation is 0.051700
+
+Parameters: (0.001, 0.01, 100)
+
+One model finish. The error of validation is 0.045900
+
+Parameters: (0.001, 0.01, 300)
+
+One model finish. The error of validation is 0.040800
+
+Parameters: (0.001, 0.001, 50)
+
+One model finish. The error of validation is 0.046200
+
+Parameters: (0.001, 0.001, 100)
+
+One model finish. The error of validation is 0.035100
+
+Parameters: (0.001, 0.001, 300)
+
+One model finish. The error of validation is 0.030700
+
+Best Parameters:
+(0.005, 0.001, 300)
