@@ -4,7 +4,7 @@ from copy import deepcopy
 
 def load_model(filename):
     
-    print('\nmodel loading')
+    print('\nModel loading')
     
     # load the network
     model_path = osp.join('model', filename+'_nn.pkl')
