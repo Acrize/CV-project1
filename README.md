@@ -46,4 +46,4 @@ python visualize.py --model_name \[要可视化的模型名称\]
 https://pan.baidu.com/s/1Hpgn4ReGYEq6VSXI_FfrZQ
 （提取码1234）
 
-下载后请将该模型放至./model
+下载后请将该模型放至./model文件夹中
