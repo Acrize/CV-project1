@@ -43,4 +43,4 @@ if __name__ == '__main__':
     if args.visualize == 'y':
         nn.visualize_error()
         nn.visualize_loss()
-        nn.visualize_weight
+        nn.visualize_weight()
