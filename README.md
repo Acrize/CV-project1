@@ -43,4 +43,6 @@ python visualize.py --model_name \[要可视化的模型名称\]
 ## 预训练模型
 经过参数查找后，以最优参数组合预训练好的模型best_nn.pkl已被上传至model目录下
 你也可以在以下百度云链接进行下载
-https://pan.baidu.com/s/1Hpgn4ReGYEq6VSXI_FfrZQ（提取码1234）
+https://pan.baidu.com/s/1Hpgn4ReGYEq6VSXI_FfrZQ
+
+（提取码1234）
