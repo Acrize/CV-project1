@@ -39,3 +39,8 @@ python visualize.py --model_name \[要可视化的模型名称\]
 请注意要不要在模型名称末尾加上_net.pkl
 
 可视化元素包括：训练时的错误率曲线、loss曲线、训练后网络的两层权重
+
+## 预训练模型
+经过参数查找后，以最优参数组合预训练好的模型best_nn.pkl已被上传至model目录下
+你也可以在以下百度云链接进行下载
+https://pan.baidu.com/s/1Hpgn4ReGYEq6VSXI_FfrZQ
