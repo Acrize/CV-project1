@@ -1,6 +1,6 @@
 # CV-project1
 
-## 训练：参数查找
+## 参数查找
 运行para_search.py文件以复现report中的参数查找
 
 参数空间为：
@@ -15,7 +15,7 @@
 
 最优模型会被保存为./model路径下的 best_net.pkl 文件
 
-## 训练：指定网络参数
+## 训练：自定义网络参数
 若要自行制定参数进行训练，请以以下格式运行train_one_model.py文件
 
 python train_one_model.py --model_name \[保存的模型名称\] --max_iter \[迭代次数\] --learning_rate \[初始学习率\] --penalty \[正则化系数\] --neural_num \[中间层神经元个数\] --visualize \[训练完成后是否可视化，y是 n否\]
@@ -36,7 +36,7 @@ visualize.py文件可以用来查看网络参数的可视化，请按以下命�
 
 python visualize.py --model_name \[要可视化的模型名称\]
 
-请注意要不要在模型名称末尾加上_net.pkl
+请注意要不要在模型名称末尾加上_nn.pkl
 
 可视化元素包括：训练时的错误率曲线、loss曲线、训练后网络的两层权重
 
